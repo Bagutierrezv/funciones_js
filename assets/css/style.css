@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#cuadro1{
+    width: 200px;
+    height: 200px;
+    background-color: #1673ff;
+    margin: 2rem;
+}
+
+#cuadro2{
+    width: 200px;
+    height: 200px;
+    background-color: #b80028;
+    margin: 2rem;
+}
+
+#cuadro3{
+    width: 200px;
+    height: 200px;
+    background-color: #22b800;
+    margin: 2rem;
+}
+
+#cuadro4{
+    width: 200px;
+    height: 200px;
+    background-color: #ffff24;
+    margin: 2rem;
+}
+
+#key{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000;
+    margin: 2rem;
+}
